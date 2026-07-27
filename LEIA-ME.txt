@@ -1,0 +1,17 @@
+PELADA EM DIA
+
+1. Abra o arquivo index.html no Google Chrome, Microsoft Edge ou Firefox.
+2. Cadastre os jogadores como mensalistas ou diaristas.
+3. Registre pagamentos e despesas.
+4. Selecione o mês desejado no topo da tela.
+
+Os dados ficam salvos no navegador deste dispositivo. Em Ajustes, use
+"Baixar backup" regularmente. Para usar em outro aparelho, leve o arquivo
+de backup e escolha "Importar backup".
+
+Não é necessário instalar nenhum programa nem possuir conexão com a internet.
+
+Esta versão contém a carga inicial importada da planilha
+"Controle financeiro e esportivo 2026.xlsx", atualizada em 27/07/2026.
+Foram incluídos mensalistas, lançamentos financeiros, artilharia, cartões
+amarelos/azuis/vermelhos e gols sofridos.
